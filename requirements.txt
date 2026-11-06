@@ -1,0 +1,2 @@
+# Engine is pure stdlib. Tests only:
+pytest>=7.0
